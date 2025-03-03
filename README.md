@@ -17,22 +17,22 @@ The directory structure inside `data/` is as follows:
 ```
 ├── primitive/
 │   ├── AB_color/
+│   │   ├── level_1.json
 │   │   ├── level_2.json
-│   │   ├── level_3.json
 │   │   └── ...
 │   ├── AB_pattern/
+│   │   ├── level_1.json
 │   │   ├── level_2.json
-│   │   ├── level_3.json
 │   │   └── ...
 │   └── ...
 └── composite/
     ├── AB_PR/
+    │   ├── level_1.json
     │   ├── level_2.json
-    │   ├── level_3.json
     │   └── ...
     ├── OC_IR/
+    │   ├── level_1.json
     │   ├── level_2.json
-    │   ├── level_3.json
     │   └── ...
     └── ...
 ```
